@@ -1,0 +1,3 @@
+C:\Users\dnz\Desktop\Store-TeamBet-main\obj\Debug\net8.0\TeamBet.csproj.AssemblyReference.cache
+C:\Users\dnz\Desktop\Store-TeamBet-main\obj\Debug\net8.0\TeamBet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnz\Desktop\Store-TeamBet-main\obj\Debug\net8.0\TeamBet.csproj.CoreCompileInputs.cache
